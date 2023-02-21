@@ -29,8 +29,8 @@ github_username: "0x66616e6973"
 linkedin_username: theofanis-cheimariotis
 # Build settings
 #theme: jekyll-theme-clean-blog 
-#remote_theme: startbootstrap-clean-blog-jekyll
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/startbootstrap-clean-blog-jekyll
+#remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme 
