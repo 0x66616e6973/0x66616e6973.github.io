@@ -2,122 +2,60 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+I am Fanis Cheimariotis and I am interested in many fields of defensive and offensive security such as security for mobile networks, it security, penetration testing, red teaming, incident response/ handling and consulting.
+</br>
+</br>
+I hold an MSc in Security of Information and Communication Systems from the Department of Information & Communication Systems Engineering of University of Aegean  and a BSc in Information Technlogy from Athens University of Economics and Business.
+</br>
+</br>
+<b>Here is my professional experience/skills in the tech field:</b>
+</br>
+</br>
+<b>Certifications:</b>
+</br>
+</br>
+<ul>
+  <li>Azure Administrator Associate - June 2022</li>
+  <li>Azure Security Engineer Associate - June 2022</li>
+  <li>Azure Fundamentals - April 2022</li>
+  <li>CyberArk Defender Certification – March 2022</li>
+  <li>CyberArk Trustee Certification – December 2020</li>
+  <li>Certified Ethical Hacker v10| CEH – September 2019 (Exp: Sep 2022)</li>
+</ul>
+</br>
+</br>
+<b>Training platforms:</b> HTB Academy/Enterprise, TryHackMe, Port Swigger Academy
+</br>
+</br>
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<b>Programming Languages/ Technologies:</b> Java, Python, TTCN3, C#, C, C++, PHP, HTML, CSS, JAVASCRIPT, XML, XSL, SQL, PL/ SQL, Bash scripting, Powershell scripting, azure powershell
+</br>
+</br>
+<b>Infrustructure as a code:</b> Ansible, Vagrant, Terraform
+</br>
+</br>
+<b>OS Administration/ Use: </b> RHEL 7/8, CENTOS 7/8, ubuntu client/ server, Windows Server 2012/ 2016/ 2019, Kali Linux 2021.3
+</br>
+</br>
+<b>HW Virtualization:</b> VMWare ESXi, Workstation, Player, Virtual Box
+</br>
+</br>
+<b>OS Virtualization:</b> Dockers, Kubernetes
+</br>
+</br>
+<b>SIEM (Security Information and Event Management):</b> IBM Qradar, Microfocus Arcsight, ELK stack – Elasticsearch, Logstash, Kibana, Splunk
+</br>
+</br>
+<b>Real time data/ logs streaming: </b> Apache Kafka
+</br>
+</br>
+<b>Defensive Tools:</b> Database Activity Monitoring – Imperva, Web Application Firewall – Imperva, Suricata IPS/ IDS, MDM – Vmware Airwatch, Digital Guardian DLP, Bolton Games (Classification), MS Advanced Threat Analytics, Cyberark PAM
+</br>
+</br>
+<b>Offensive Tools: </b> nmap, metasploit, wireshark, john the ripper, hashcat, burp suite, SQLmap
+</br>
+</br>
+<b>Vulnerability Management Tools:</b> Nexpose Insight VM, Nessus
+</br>
+</br>
+<b>Other:</b> MS Office , MS Visio , Open Office, IntelliJ IDEA, NetBeans, Eclipse, MS Visual Studio, MS Visual Code, Sublime, VIM, Nano
